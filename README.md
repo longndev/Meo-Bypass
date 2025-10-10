@@ -1,4 +1,4 @@
-# Meo-Bypass  
+# Meo Bypass  
 ![Meo Bypass](https://github.com/longndev/Meo-Bypass/blob/main/standard.gif?raw=true)  
 Discord: https://dsc.gg/meobypass/ hoặc https://meobypass.click/discord/  
 **Cách sử dụng:**  
