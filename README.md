@@ -30,3 +30,17 @@
 - `🟢`: Seotimtim
   
 ---
+  
+## Cách sử dụng
+  
+1. **Tải [Python 3.12](https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe)**.  
+2. **Tải phiên bản Mèo Bypass mới nhất** từ repository này.  
+3. **Xem [hướng dẫn sử dụng](https://www.youtube.com/watch?v=3PZa8D3CoE0)** và làm theo để chạy tool.  
+  
+---
+  
+## Repository Activity
+  
+![Alt](https://repobeats.axiom.co/api/embed/3e765992107484864746304850bf1f072eb2f54f.svg "Repobeats analytics image")  
+  
+---
