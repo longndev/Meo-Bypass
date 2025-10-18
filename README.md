@@ -4,9 +4,29 @@
   <p align="center">A fast and reliable way to bypass Vietnamese shortlinks.</p>
 </p>
 
-Discord: https://dsc.gg/meobypass/ hoặc https://meobypass.click/discord/  
-**Cách sử dụng:**  
-B1: Tải python **3.12** từ https://www.python.org/downloads  
-B2: Mở terminal và nhập: `cd <vị trí đặt file meobypass.py đã tải về>`  
-B3: Chạy file: `python meobypass.py`  
-hết  
+---
+
+## About
+
+**Mèo Bypass** là một công cụ dùng để bypass link rút gọn **Việt Nam**.
+  
+- **Community:** [Join Discord server](https://discord.gg/r8xQ7K59Mt) để nhận thông báo về các bạn cập nhật mới và hỗ trợ
+- **Cách sử dụng:** https://www.youtube.com/watch?v=3PZa8D3CoE0
+  
+---
+  
+## Các loại link rút gọn tool **Mèo Bypass** hỗ trợ:  
+  
+- `🟢`: Linktot    
+- `🟢`: Xlink  
+- `🟢`: Synurl  
+- `🟢`: BBMKTS  
+- `🟢`: Linkngon  
+- `🟢`: TrafficUser  
+- `🟢`: Traffichay  
+- `🟢`: Trafficseotop  
+- `🟢`: Trafficviet  
+- `🟢`: Traffichub  
+- `🟢`: Seotimtim
+  
+---
