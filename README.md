@@ -41,6 +41,8 @@
   
 ## Repository Activity
   
-![Alt](https://repobeats.axiom.co/api/embed/3e765992107484864746304850bf1f072eb2f54f.svg "Repobeats analytics image")  
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/3e765992107484864746304850bf1f072eb2f54f.svg" alt="Mèo Bypass Activity"/>
+</p>
   
 ---
