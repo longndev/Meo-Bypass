@@ -10,7 +10,7 @@
 
 **Mèo Bypass** là một công cụ dùng để bypass link rút gọn **Việt Nam**.
   
-- **Community:** [Tham gia Discord server](https://discord.gg/r8xQ7K59Mt) để nhận thông báo về các bạn cập nhật mới và hỗ trợ
+- **Cộng đồng Discord:** [Tham gia Discord server](https://discord.gg/r8xQ7K59Mt) để nhận thông báo về các bạn cập nhật mới và nhận hỗ trợ  
 - **Cách sử dụng:** https://www.youtube.com/watch?v=3PZa8D3CoE0
   
 ---
