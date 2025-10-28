@@ -28,6 +28,8 @@
 - `🟢`: Trafficviet  
 - `🟢`: Traffichub  
 - `🟢`: Seotimtim
+- `🔴`: Funlink
+- `🔴`: Toplinks
   
 ---
   
