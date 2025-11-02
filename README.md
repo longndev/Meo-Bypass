@@ -30,6 +30,7 @@
 - `🟢`: Seotimtim
 - `🔴`: Funlink
 - `🔴`: Toplinks
+- `🟢`: Yeulink
   
 ---
   
