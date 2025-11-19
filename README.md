@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/longndev/Meo-Bypass/blob/main/meobypass.png?raw=true" alt="Mèo Bypass Logo" width="1200"/>
+  <img src="https://github.com/longndev/Meo-Bypass/blob/main/meobypass.png?raw=true" alt="Mèo Bypass Logo" width="700"/>
   <h1 align="center">Mèo Bypass</h1>
   <p align="center">A fast and reliable way to bypass Vietnamese shortlinks.</p>
 </p>
